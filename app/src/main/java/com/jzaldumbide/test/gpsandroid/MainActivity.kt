@@ -33,8 +33,8 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    private val supabaseUrl = "https://rubsmsszczixgemppvar.supabase.co"
-    private val supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJ1YnNtc3N6Y3ppeGdlbXBwdmFyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTMwOTQxNTQsImV4cCI6MjA2ODY3MDE1NH0.JimObZdYD5375tD5yFBESlHj_yBOFTawfYEA3IzzV3Q"
+    private val supabaseUrl = ""
+    private val supabaseKey = ""
 
     private val locationPermissionLauncher = registerForActivityResult(
         ActivityResultContracts.RequestPermission()
